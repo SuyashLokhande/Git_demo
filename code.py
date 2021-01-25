@@ -5,3 +5,4 @@ for i in str1:
     if i not in arr:
 	##########
         print(i)
+	print(i)
